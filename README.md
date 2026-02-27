@@ -1,10 +1,11 @@
-```markdown
 # 🤖 AI Log Analyzer
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.3.1-brightgreen)
-![Java](https://img.shields.io/badge/Java-17-orange)
-![AI](https://img.shields.io/badge/AI-Groq-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.1-6DB33F?logo=springboot)
+![Java](https://img.shields.io/badge/Java-17-007396?logo=openjdk)
+![Build](https://img.shields.io/badge/Build-Maven-C71A36?logo=apachemaven)
+![AI](https://img.shields.io/badge/AI-OpenAI-blueviolet?logo=openai)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 AI-powered log analyzer built using Spring Boot and LLM.
 
